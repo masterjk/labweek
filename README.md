@@ -29,7 +29,7 @@ The goal of this project is to explore how LLMs work in general (tuning, inferen
 
 Demo URL: https://llm.kiok.org/ (requires AnyScale API Key)
 
-Summary:  Fine tune the [Llama-2 7B](https://huggingface.co/meta-llama/Llama-2-7b) LLM with data from [Luke Gromen](https://twitter.com/LukeGromen) - a macro economists with over 20+ years of experience.
+Fine tune the [Llama-2 7B](https://huggingface.co/meta-llama/Llama-2-7b) LLM with data from [Luke Gromen](https://twitter.com/LukeGromen) - a macro economists with over 20+ years of experience.
 
 ![Screenshot](./images/macrollm/screenshot.png)
 
